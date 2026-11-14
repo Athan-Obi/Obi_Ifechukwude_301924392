@@ -61,7 +61,7 @@ Product, supplier, and stock_lot details were separated into distinct tables to 
 
 ## AI-use declaration
 
-alongside a portfolio generator to help develop the database model, write scripts, and draft explanations. The generator executed the PostgreSQL and MongoDB exercises, verified the output, and captured the result images. I retain full responsibility for reviewing and explaining all submitted work.
+Alongside a portfolio generator to help develop the database model, write scripts, and draft explanations. The generator executed the PostgreSQL and MongoDB exercises, verified the output, and captured the result images. I retain full responsibility for reviewing and explaining all submitted work.
 
 
 ## References
